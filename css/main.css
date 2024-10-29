@@ -1,0 +1,29 @@
+.services{
+    text-align: center;
+}
+.p1 {
+    color: gray;
+}
+.service{
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.fa-lock{
+    background-color: yellow;
+    font-size: 50px;
+    height: 51px;
+    width: 51px;
+    color:white;
+}
+.icon{
+    background-color: yellow;
+    font-size: 40px;
+    height: 51px;
+    width: 51px;
+    color:white;
+}
+
